@@ -120,8 +120,6 @@ const ThreadCard = ({
 
         {/* TODO: Delete Thread */}
         {/* TODO: show comment logos */}
-
-        {console.log(community)}
       </div>
       {!isComment && (
         <div className="mt-5 flex items-center">
